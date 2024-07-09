@@ -1,0 +1,12 @@
+.lista-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+.elemento {
+    display: inline;
+    padding: 8px;
+  }
+.perfil {
+  border-radius: 50%;
+}
